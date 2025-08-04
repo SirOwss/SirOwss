@@ -4,7 +4,7 @@
 - ⚡ Fun fact: **"Science is an endless journey"**
 - 📫 How to reach me on:
   
-  <div> <a href="https://twitter.com/SirOwss_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a><a href="https://github.com/sirowss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a><a href = "mailto:osama.fahad.hamed@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <div> <a href="https://twitter.com/osamafhamed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a><a href="https://github.com/sirowss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a><a href = "mailto:osama.fahad.hamed@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
