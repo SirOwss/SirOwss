@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Osama Hamed
-- 👀 I’m interested in Application Development and AI
-- 🌱 I’m currently learning Machine Learning, Flutter
+- 👀 I’m interested in RPA and Product Management
+- 🌱 I’m currently learning RPA, React.JS
 - ⚡ Fun fact: **"Science is an endless journey"**
 - 📫 How to reach me on:
   
-  <div> <a href="https://twitter.com/osamafhamed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a><a href="https://github.com/sirowss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a><a href = "mailto:osama.fahad.hamed@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <div> <a href="https://x.com/osamafhamed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a><a href="https://github.com/sirowss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a><a href = "mailto:osama.fahad.hamed@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
